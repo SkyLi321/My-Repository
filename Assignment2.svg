@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Assignment2.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective4518" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="135.40149"
+     inkscape:cy="657.77282"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="956"
+     inkscape:window-x="16"
+     inkscape:window-y="11"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4612"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4614"><rect
+           id="rect4616"
+           width="171.72594"
+           height="131.31982"
+           x="476.79199"
+           y="952.81409" /></flowRegion><flowPara
+         id="flowPara4618" /></flowRoot>    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.28277746"
+       id="path22-8"
+       cx="50.042641"
+       cy="104.69727"
+       r="29.893593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.6282444px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29070613"
+       x="24.604286"
+       y="108.6159"
+       id="text4622-3"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1"
+         x="50.042641"
+         y="108.6159"
+         style="text-anchor: middle;stroke-width:0.29070613">Australia</tspan><tspan
+         sodipodi:role="line"
+         x="24.604286"
+         y="123.15121"
+         style="stroke-width:0.29070613"
+         id="tspan4624-0" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.1541777"
+       id="path22-2"
+       cx="163.69292"
+       cy="55.461529"
+       r="16.298771" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.52418804px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26310474"
+       x="150.2738"
+       y="59.533978"
+       id="text4622-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-8"
+         x="150.2738"
+         y="59.533978"
+         style="stroke-width:0.26310474">Chile</tspan><tspan
+         sodipodi:role="line"
+         x="150.2738"
+         y="72.689209"
+         style="stroke-width:0.26310474"
+         id="tspan4624-0-0" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.11003883"
+       id="path22-3"
+       cx="109.92393"
+       cy="230.66777"
+       r="11.632668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.11308575px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17782716"
+       x="93.278015"
+       y="232.22906"
+       id="text4622-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-7"
+         x="93.278015"
+         y="232.22906"
+         style="stroke-width:0.17782716">Indonesia</tspan><tspan
+         sodipodi:role="line"
+         x="93.278015"
+         y="241.12042"
+         style="stroke-width:0.17782716"
+         id="tspan4624-0-6" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.22759919"
+       id="path22-8-8"
+       cx="75.360802"
+       cy="164.91316"
+       r="24.060469" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.6622982px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24155749"
+       x="55.466381"
+       y="167.92381"
+       id="text4622-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-6"
+         x="55.466381"
+         y="167.92381"
+         style="stroke-width:0.24155749">Belgium</tspan><tspan
+         sodipodi:role="line"
+         x="55.466381"
+         y="180.00168"
+         style="stroke-width:0.24155749"
+         id="tspan4624-0-1" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.14755313"
+       id="path22-0"
+       cx="47.891224"
+       cy="48.769993"
+       r="15.598461" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.54593754px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23864847"
+       x="34.001442"
+       y="52.156006"
+       id="text4622-3-49"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-64"
+         x="34.001442"
+         y="52.156006"
+         style="stroke-width:0.23864847">China</tspan><tspan
+         sodipodi:role="line"
+         x="34.001442"
+         y="64.088425"
+         style="stroke-width:0.23864847"
+         id="tspan4624-0-2" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.3513824"
+       id="path22-9"
+       cx="145.46915"
+       cy="179.2829"
+       r="37.146107" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.13261223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60331535"
+       x="114.24565"
+       y="187.60919"
+       id="text4622-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-4"
+         x="114.24565"
+         y="187.60919"
+         style="stroke-width:0.60331535">Cuba</tspan><tspan
+         sodipodi:role="line"
+         x="114.24565"
+         y="217.77496"
+         style="stroke-width:0.60331535"
+         id="tspan4624-0-4" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.30966815"
+       id="path22-7"
+       cx="161.65086"
+       cy="257.08304"
+       r="32.736324" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.70909882px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31772751"
+       x="134.87106"
+       y="261.19067"
+       id="text4622-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-81"
+         x="161.65086"
+         y="261.19067"
+         style="text-anchor: middle;stroke-width:0.31772751">Armenia</tspan><tspan
+         sodipodi:role="line"
+         x="134.87106"
+         y="277.07706"
+         style="stroke-width:0.31772751"
+         id="tspan4624-0-03" /></text>
+    <circle
+       style="opacity:1;fill:#ff9955;stroke-width:0.36106697"
+       id="path22"
+       cx="52.537857"
+       cy="237.6945"
+       r="38.169907" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1895113px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35473785"
+       x="17.720434"
+       y="241.82938"
+       id="text4622-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-43"
+         x="52.537857"
+         y="241.82938"
+         style="text-anchor: middle;stroke-width:0.35473785">Argentina</tspan><tspan
+         sodipodi:role="line"
+         x="17.720434"
+         y="259.56625"
+         style="stroke-width:0.35473785"
+         id="tspan4624-0-48" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.31686732"
+       id="path22-8-3"
+       cx="105.91721"
+       cy="41.958839"
+       r="33.497379" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.04516983px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35112926"
+       x="80.499077"
+       y="47.288704"
+       id="text4622-3-12"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-83"
+         x="105.91721"
+         y="47.288704"
+         style="text-anchor: middle;stroke-width:0.35112926">Algeria</tspan><tspan
+         sodipodi:role="line"
+         x="80.499077"
+         y="64.845169"
+         style="stroke-width:0.35112926"
+         id="tspan4624-0-9" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.27797487"
+       id="path22-8-3-9"
+       cx="149.21259"
+       cy="108.48498"
+       r="29.385893" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.42973137px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31074333"
+       x="126.29474"
+       y="112.84545"
+       id="text4622"><tspan
+         sodipodi:role="line"
+         id="tspan4620"
+         x="126.29474"
+         y="112.84545"
+         style="stroke-width:0.31074333">Albania</tspan><tspan
+         sodipodi:role="line"
+         x="126.29474"
+         y="128.38261"
+         style="stroke-width:0.31074333"
+         id="tspan4624" /></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ff9955;stroke-width:0.12284415"
+       id="path22-8-4"
+       cx="24.159613"
+       cy="166.48347"
+       r="12.986371" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.43086529px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16077165"
+       x="13.547478"
+       y="168.86954"
+       id="text4622-3-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan4620-1-81-6"
+         x="13.547478"
+         y="168.86954"
+         style="stroke-width:0.16077165">Ireland</tspan><tspan
+         sodipodi:role="line"
+         x="13.547478"
+         y="176.90811"
+         style="stroke-width:0.16077165"
+         id="tspan4624-0-03-1" /></text>
+  </g>
+</svg>
